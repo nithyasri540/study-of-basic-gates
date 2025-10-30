@@ -77,5 +77,6 @@ Y= A⊕B
 <img width="1920" height="1080" alt="Screenshot 2025-10-10 054932" src="https://github.com/user-attachments/assets/b220aab5-fe5e-411c-90e3-d918907d6e0e" />
 
 **Result:**
+thus the logic gates can be verified
 
 
